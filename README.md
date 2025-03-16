@@ -1,4 +1,4 @@
-# EntropyLattice
+# Entropy Lattice
 
 An advanced cryptographic framework based on entropic pattern mathematics and lattice operations.
 

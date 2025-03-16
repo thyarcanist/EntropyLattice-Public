@@ -1,0 +1,151 @@
+ENTROPIC LATTICE SOFTWARE LICENSE AGREEMENT
+Version 1.0, March 2025
+
+Copyright © 2025 Datorien Laurae Anderson (DBA "Occybyte"). All Rights Reserved.
+Author: Datorien Laurae Anderson
+
+This EntropyLattice Software License Agreement ("License") is a legal agreement between you (either an individual or a single entity) and Datorien Laurae Anderson, operating under the trade name "Occybyte" ("Licensor") for the EntropyLattice software product, which includes computer software and associated documentation ("Software").
+
+BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
+
+1. PROPRIETARY RIGHTS AND PATENT NOTICE
+
+1.1 The Software contains proprietary and confidential information that is protected by intellectual property laws and treaties. The Software is licensed, not sold. Licensor retains all rights, title, and interest in and to the Software, including all intellectual property rights therein. All rights not expressly granted herein are reserved by Licensor.
+
+1.2 PATENT NOTICE: The Software implements methods and systems that are subject to pending patent applications filed by Datorien Laurae Anderson. These patent-pending technologies are integral to the Software's operation and are provided for use solely under the terms of this License. Any use of these patent-pending technologies outside the scope of this License is expressly prohibited.
+
+1.3 No ownership rights to any patents, patent applications, copyrights, trade secrets, know-how, or any other intellectual property rights are transferred under this License. This License does not grant you any rights to practice any patents except as expressly provided herein.
+
+1.4 FIRST-TO-FILE PROTECTION: Licensor asserts priority rights to all inventions implemented in the Software under the first-to-file patent system. You acknowledge that Datorien Laurae Anderson has filed or is in the process of filing patent applications covering the integral components and methods of the Software. Any similar patent applications filed by you or any third party after these filing dates are subject to Licensor's priority rights.
+
+1.5 CONFIDENTIALITY: To preserve patent eligibility and novelty requirements, you agree to maintain the confidentiality of all non-public aspects of the Software and its underlying algorithms. Any public disclosures or publications related to the Software must be approved in writing by Licensor prior to disclosure.
+
+1.6 PRIOR USE DOCUMENTATION: You agree to document the date of first access and use of the Software. This documentation may be used to establish Licensor's priority date for patent purposes and your date of access in any potential dispute.
+
+2. LIMITED LICENSE GRANT
+
+2.1 Public Version License
+
+Subject to your compliance with the terms and conditions of this License, Licensor grants you a limited, non-exclusive, non-transferable, non-sublicensable license to:
+
+(a) Install and use the public version of the Software for non-commercial research, evaluation, and educational purposes only.
+(b) Use the Software to process and analyze data for academic research purposes.
+
+2.2 Attribution Requirement
+
+Any publication, presentation, or distribution of results obtained using the Software must include appropriate attribution to EntropyLattice and Datorien Laurae Anderson, citing:
+
+"EntropyLattice by Datorien Laurae Anderson (Occybyte) was used in this research."
+
+2.3 No Patent License for Alternate Implementations
+
+This License does not grant you any rights to implement, develop, produce, or distribute any software, system, or method that performs the same or similar functions as the patent-pending technologies implemented in the Software, even if developed independently.
+
+2.4 Improvement Provisions
+
+Any improvements, modifications, or enhancements you conceptualize or develop based on the Software or its underlying technologies must be promptly disclosed to Licensor. You hereby assign all rights, title, and interest in such improvements to Licensor, who shall have the exclusive right to file for patent protection on such improvements.
+
+3. RESTRICTIONS
+
+You may NOT:
+
+(a) Use the Software for any commercial purpose, including but not limited to providing services to third parties or incorporating the Software into commercial products.
+(b) Modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+(c) Remove any proprietary notices or labels on the Software.
+(d) Reproduce, copy, distribute, republish, download, display, post, or transmit the Software in any form or by any means.
+(e) Use the Software for any purpose that violates any applicable local, state, national, or international law.
+(f) Attempt to circumvent or disable any license verification mechanisms.
+(g) Use the Software in any application where failure could lead to death, personal injury, or severe physical or environmental damage.
+(h) File for patent protection on any invention derived from or based on the Software or its underlying technologies.
+(i) Challenge the validity or enforceability of any patent applications or patents owned by Datorien Laurae Anderson relating to the Software.
+(j) Disclose, publish, or otherwise make public any information related to the integral components of the Software that could jeopardize Licensor's patent rights or priority dates.
+(k) Assist others in developing competing technologies that may infringe upon Licensor's patent rights.
+
+4. UPGRADES AND ADDITIONAL TERMS
+
+Use of premium features and additional functionality requires purchase of appropriate commercial licenses. Contact Datorien Laurae Anderson (Occybyte) for information regarding commercial licensing options.
+
+5. TERMINATION
+
+This License is effective until terminated. Your rights under this License will terminate automatically without notice if you fail to comply with any terms of this License. Upon termination, you must cease all use of the Software and destroy all copies.
+
+6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. EXPORT CONTROLS
+
+The Software and the underlying information and technology may not be downloaded or otherwise exported or re-exported into any country to which the U.S. has embargoed goods, or to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Deny Orders. By using the Software, you represent and warrant that you are not located in, under the control of, or a national or resident of any such country or on any such list.
+
+9. GENERAL PROVISIONS
+
+(a) Governing Law: This License shall be governed by and construed in accordance with the laws of the United States and the State of Delaware, without giving effect to any choice of law principles.
+(b) Entire Agreement: This License constitutes the entire agreement between you and Licensor regarding the Software and supersedes all prior agreements and understandings, whether written or oral.
+(c) Severability: If any provision of this License is held to be unenforceable, that provision shall be reformed only to the extent necessary to make it enforceable.
+(d) No Waiver: No failure to exercise, nor any delay in exercising any right, power, or privilege under this License shall operate as a waiver thereof.
+(e) Patent Marking: You acknowledge that the Software contains or may contain patent markings that identify it as patent pending or patented, and you agree not to remove or obscure these markings.
+
+10. CONTACT INFORMATION
+
+For licensing inquiries or other questions regarding this License, please contact:
+Datorien Laurae Anderson
+DBA: Occybyte
+Email: datorien@occybyte.dev
+
+--------------------------------------------------------------------------------------------
+PATENT-SPECIFIC ADDENDUM
+--------------------------------------------------------------------------------------------
+
+This Addendum forms an integral part of the Entropic Lattice Software License Agreement ("License") and specifically addresses the patent-pending technology implemented in the Software. The following terms provide additional protection for the patented technology:
+
+A. PROTECTED PATENTED COMPONENTS
+
+The Software contains proprietary algorithms and methods that are subject to patent protection and are made available under this License solely for the limited purposes described herein. The specific technical details of these protected components are confidential and proprietary.
+
+B. PROHIBITED IMPLEMENTATIONS
+
+Without limiting the restrictions set forth in the License, you specifically may not:
+
+1. Implement any system that performs pattern arithmetic operations using similar methodologies to those in the Software.
+
+2. Recreate, simulate, or emulate the verification methods or testing systems used in the Software.
+
+3. Develop any methodology that utilizes similar processing techniques or algorithms as those found in the Software.
+
+4. Create competing implementations based on observations of the Software's behavior or functionality.
+
+C. ACKNOWLEDGMENT OF PATENT PENDING STATUS
+
+By using the Software, you acknowledge that:
+
+1. The Software implements methods and systems that are subject to patent protection.
+
+2. These methods and systems are integral to the Software and require specific licensing for any commercial or non-research use.
+
+3. The specific technical details of the patented technology are confidential, and you may be exposed to some of these details through your use of the Software.
+
+D. RESEARCH LIMITATIONS
+
+Research use permitted under this License is explicitly limited to academic and educational contexts. Such use:
+
+1. May NOT involve applying the proprietary methodologies to commercial datasets or problems.
+
+2. May NOT be conducted in service of commercial product development, even if indirect.
+
+3. Must be confined to understanding the fundamental principles without implementing competing technologies.
+
+4. Must NOT involve testing for commercial viability or market research purposes.
+
+E. ADDITIONAL ATTRIBUTION REQUIREMENTS
+
+In addition to the attribution requirements in the main License, any research using the Software must specifically acknowledge the protected technology by including the following statement:
+
+"This research utilized EntropyLattice by Datorien Laurae Anderson (Occybyte), which implements protected methods and systems as described in patent applications owned by Datorien Laurae Anderson."
+
+F. TERM AND SURVIVAL
+
+The restrictions and acknowledgments in this Addendum shall survive any termination or expiration of the License and shall remain in effect until all relevant patents have expired or been abandoned. 

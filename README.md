@@ -7,7 +7,7 @@ An advanced cryptographic framework based on entropic pattern mathematics and la
 EntropyLattice provides a framework for performing entropic mathematical operations on pattern lattices. It implements a suite of non-commutative lattice operators, entropic values, and pattern transformations that can be used for cryptographic applications, data obfuscation, and scientific computing.
 
 The library is designed with an elegant mathematical foundation inspired by information theory and lattice-based mathematics.
-Note: This is for evaluation NOT production.
+Note: This is for evaluation NOT production. I'm already working on a fix for the issues with this one. So, hold up on downloading it until I do. :)
 
 ## Features
 

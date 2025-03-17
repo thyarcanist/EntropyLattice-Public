@@ -34,7 +34,7 @@ pip install entropy-lattice
 ### Basic Pattern Operations
 
 ```python
-from entropy_lattice import PatternTransformations, normalize_pattern
+from lattice_framework import PatternTransformations, normalize_pattern
 
 # Create test patterns
 pattern1 = [0.1, 0.2, 0.3, 0.4, 0.5]
@@ -57,7 +57,7 @@ print(f"Interference: {interference}")
 ### Cryptographic Applications
 
 ```python
-from entropy_lattice import LatticeOperations, PatternTransformations
+from lattice_framework import LatticeOperations, PatternTransformations
 
 # Generate cryptographic key material
 seed = 12345
@@ -73,7 +73,7 @@ print(f"Hash: {hash_value}")
 ### Basic Encoding
 
 ```python
-from entropy_lattice import EntropyEncoder
+from lattice_framework import EntropyEncoder
 
 # Create a pattern
 pattern = [0.1, 0.2, 0.3, 0.4, 0.5]

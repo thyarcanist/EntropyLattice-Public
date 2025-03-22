@@ -10,6 +10,7 @@ The library is designed with an elegant mathematical foundation inspired by info
 Note: This is for evaluation NOT production. I'm already working on a fix for the issues with this one. So, hold up on downloading it until I do. :)
 3/18/2025 - Taking a bit longer than I thought because I'm making sure the randomness was valid; the initial version was missing some values but as noted in the Evals, what I added in passed, the Dieharder 10v10.
 I'm doing another pass at the functions and then doing tests to make sure nothing is broke.
+3/22/2025 - The current issues, and more are solved. Now it's just getting it to build correctly.
 
 ## Features
 

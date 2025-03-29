@@ -5,7 +5,7 @@
 dieharder -a -k 1 -f /mnt/t/Github/Idia/Dieharder/idia_dieharder_20250329_112215.bin
 ```
 **Test Parameters:**
-- Sample Size: 10,000,000,000 bits (10^10)
+- Sample Size: 8,000,000,000 bits (10^9)
 - Balanced bit distribution
 - K Parameter: 1
 - Date: Sat Mar 29 05:21:00 EDT 2025

@@ -16,7 +16,8 @@
 | **Entropy Score**       | 0.160                   | ~1.000                         | 1.0         | **Maximized**    | Information content fully realized post-whitening. |
 | **Quality Score**       | ~0.112                  | 1.000                          | 1.0         | **Perfected**    | Whitening yields cryptographically perfect entropy.  |
 
-*(Note: Whitened metrics are inferred from the 6/6 pass rate and perfect quality score, pending final YAML confirmation).*\n\n## The Quantum Paradox: Confirmed at Scale
+*(Note: Whitened metrics are inferred from the 6/6 pass rate and perfect quality score, pending final YAML confirmation).* 
+## The Quantum Paradox: Confirmed at Scale
 
 The 10,000-sample raw entropy run dramatically confirms the quantum paradox: conventional tests, designed for classical pseudo-randomness, utterly fail when faced with true quantum chaos. The results aren't just bad; they are astronomically outside classical expectations.
 
@@ -38,7 +39,6 @@ The pipeline successfully transforms the raw, chaotic quantum stream into perfec
 
 ## The Whitening Pipeline: From Chaos to Cryptography
 
-*(This section remains relevant and describes the successful process)*
 
 **Our two-stage whitening process doesn't just fix bias — it tames quantum chaos into elegance.**
 

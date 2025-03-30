@@ -21,7 +21,7 @@
 
 The 10,000-sample raw entropy run dramatically confirms the quantum paradox: conventional tests, designed for classical pseudo-randomness, utterly fail when faced with true quantum chaos. The results aren't just bad; they are astronomically outside classical expectations.
 
-*   **Chi-Square of 1.6 Billion:** This isn't an error; it's the signature of raw quantum mechanics interacting with the measurement apparatus. No classical generator could produce this. It's the sound of the quantum realm unfiltered.
+*   **Chi-Square of 16 Million:** This isn't an error; it's the signature of raw quantum mechanics interacting with the measurement apparatus. No classical generator could produce this. It's the sound of the quantum realm unfiltered.
 *   **Extreme Bias:** The raw data heavily favors zeros (87% vs 13% ones), likely a hardware characteristic amplified at the quantum level.
 *   **Failed Runs & Correlation:** Patterns and dependencies are evident, showing the raw stream hasn't been statistically smoothed.
 

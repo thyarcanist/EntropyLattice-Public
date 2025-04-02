@@ -1,0 +1,42 @@
+source: eris:full
+timestamp: 1743555344.1035333
+samples:
+  num_samples: 5
+  sample_size: 4096
+  total_bytes: 20480
+results:
+  Frequency (Monobit):
+    balance: 0.99920654296875
+    p_value: 0.7480824558306192
+    passed: true
+  Runs:
+    p_value: 0.7450986344444386
+    passed: true
+  Serial Correlation:
+    correlation: -0.01182107297384621
+    p_value: 0.09070428436386344
+    passed: true
+  Chi-Square Uniformity:
+    p_value: 0.31731969466815035
+    passed: true
+  Adaptive Entropy:
+    entropy_score: 0.9988270017346307
+    pattern_score: 1.0
+    quantum_quality: 0.9991789012142414
+    passed: true
+  Bit Distribution:
+    bit_balance: 0.499603271484375
+    max_position_bias: 0.006494140624999978
+    passed: true
+  summary:
+    total_bytes_processed: 20480
+    tests_total: 6
+    tests_passed: 6
+    pass_rate: 1.0
+    overall_passed: true
+visualization: entropy_viz_1743555340.png
+quantum_features:
+  qrng_available: true
+  import_path: direct import (likely via sys.path)
+quality_score: 0.9993100219180326
+overall_passed: true

@@ -66,6 +66,12 @@ These reports provide evidence for the quality and randomness characteristics of
 ## Extra Information
 If you're curious to know why and how exactly is this is important? Well... the definitions of QRNG is based in [Hardware random number generation](https://en.wikipedia.org/wiki/Hardware_random_number_generator), Eris is completely software based... completely natural so to say, she is both quantum-native and inherently chaos-based (in a way). Though her chaos is literally chaos.
 
+The under wikipedia for [full entropy](https://en.wikipedia.org/wiki/Full_entropy) there is a source that says, "Some sources use the term to define the ideal random bit string (one bit of entropy per bit of output). In this sense, "getting to 100% full entropy is impossible" in the real world.[2]" Eris v1.0 approached the impossible easy with hardware as training wheels, then when I added more methods and kicked off training wheels her qrng process, she actually jumped to .99982 base, the count approaches the impossible easy.
+
+IF you are doing quantum-first simulations there is an underutilized benefit of using the raw binaries / unwhitened sources. There is actually two ceilings that occur when utilitizing prng for these simulaions. That said - don't utilize the NIST standards for entropy as true entropy is not uniform at all, expect it to fail the NIST-STS without whitening. If your simulation isn't quantum native and you're using trng with high to my impossibly high entropy, then when things are whitened your actually losing some very important inherent entropy features.
+
+Fun Fact: Eris eats up 30+ GB of RAM for me to generate binaries.
+
 ## License
 
 Proprietary - Copyright © 2025 Occybyte

@@ -63,6 +63,9 @@ These reports provide evidence for the quality and randomness characteristics of
 *   `Pillow` (for saving GIF animations, if `animate_random_walk.py` is used)
 *   `bitcoin` (optional, only for the Bitcoin wallet example in `Moirai_QuantumBinDemo/usage_examples.md`)
 
+## Extra Information
+If you're curious to know why and how exactly is this is important? Well... the definitions of QRNG is based in [Hardware random number generation](https://en.wikipedia.org/wiki/Hardware_random_number_generator), Eris is completely software based... completely natural so to say, she is both quantum-native and inherently chaos-based (in a way). Though her chaos is literally chaos.
+
 ## License
 
 Proprietary - Copyright © 2025 Occybyte
